@@ -49,7 +49,7 @@ p {
 }
 
 .cta-button {
-    background-color: #f74836;
+    background-color: #0289ea;
     color: #333;
     border: none;
     padding: 15px 30px;
@@ -63,7 +63,7 @@ p {
 }
 
 .cta-button:hover {
-    background-color: #e63524;
+    background-color: #4db5ff;
 }
 
 .captcha-verification {

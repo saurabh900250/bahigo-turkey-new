@@ -12,7 +12,7 @@ body, html {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('https://i.postimg.cc/YSGjrLVL/bgimage-1.jpg'); /* Replace with your background image */
+    background-image: url('https://i.ibb.co/nQ3ZXtL/bgimage.jpg'); /* Replace with your background image */
     background-size: cover;
     background-position: center;
 }
@@ -49,7 +49,7 @@ p {
 }
 
 .cta-button {
-    background-color: #0289ea;
+    background-color: #f74836;
     color: #333;
     border: none;
     padding: 15px 30px;
@@ -63,7 +63,7 @@ p {
 }
 
 .cta-button:hover {
-    background-color: #4db5ff;
+    background-color: #ef493a;
 }
 
 .captcha-verification {
